@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ]
+  ],
+  "legacy_uid": "a1cfbb32-8221-a3c7-aef6-c53471d07fb6",
+  "instructors": {
+    "content": [
+      "169f09f3-c08e-0af4-754a-b003ea0b87c2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e596eb16-be1b-9d93-b78d-46f8c49ac799",
+    "website": "24-230-meta-ethics-fall-2015"
+  },
+  "course_title": "Meta-ethics",
+  "hide_download": true,
+  "course_description": "This course considers a range of philosophical questions about the foundations of morality, such as whether and in what sense morality is objective, the nature of moral discourse, and how we can come to know right from wrong.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.230",
+  "course_image_thumbnail": {
+    "content": "9e68d254-2594-cb11-3b83-055b25c0d083",
+    "website": "24-230-meta-ethics-fall-2015"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "e56b3bcb-b49a-4834-8e8e-20286b94c912",
+  "site_short_id": "24.230-fall-2015",
+  "site_url_path": "courses/24-230-meta-ethics-fall-2015",
+  "title": "Course Metadata"
+}

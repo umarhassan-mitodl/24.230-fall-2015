@@ -1,0 +1,34 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 551cba11-60a9-449e-557e-03127fe58198
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 2b316f73-a05e-2bb5-046c-bb8fc2108eca
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: bda4ceb5-7481-3c37-0e64-945fe22c51f9
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 9e789f82-3305-186b-e866-69ba3b584691
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 0cf1dc1c-ef6f-53b7-0a79-f442673bed7c
+  name: Grading Criteria
+  pageRef: /pages/assignments/grading-criteria
+  parent: 9e789f82-3305-186b-e866-69ba3b584691
+  weight: 50
+- identifier: da987416-84ae-0488-3faf-6ca57cc1081d
+  name: Reading Responses
+  pageRef: /pages/assignments/reading-responses
+  parent: 9e789f82-3305-186b-e866-69ba3b584691
+  weight: 60
+- identifier: 3c13f817-60b4-3769-9531-d9214f88abcb
+  name: Papers
+  pageRef: /pages/assignments/papers
+  parent: 9e789f82-3305-186b-e866-69ba3b584691
+  weight: 70
